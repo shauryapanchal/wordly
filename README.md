@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # This is just for test
 Added just to check.
+
+# Test Comment 2
+Added another test comment
