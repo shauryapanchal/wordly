@@ -1,0 +1,13 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    padding: 0.8rem;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
